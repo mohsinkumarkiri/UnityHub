@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Neuzeit S LT Std';
+  src: url('NeuzeitSLTStd-Book.woff2') format('woff2'),
+      url('NeuzeitSLTStd-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neuzeit S LT Std';
+  src: url('NeuzeitSLTStd-BookHeavy.woff2') format('woff2'),
+      url('NeuzeitSLTStd-BookHeavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
